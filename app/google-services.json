@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468605391404",
+    "firebase_url": "https://k-wash.firebaseio.com",
+    "project_id": "k-wash",
+    "storage_bucket": "k-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468605391404:android:7cb4185a660313b3",
+        "android_client_info": {
+          "package_name": "e.tgbro.k_washsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468605391404-gf1n8qjetbmgpv7tf8q03tsfurl2u2fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.tgbro.k_washsmart",
+            "certificate_hash": "df933943ef210fb025c494e3a130244cdbe545ca"
+          }
+        },
+        {
+          "client_id": "468605391404-eigigeak6pf88kkg73s2n6894thebaia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTSkWW5NPW8Y6jZ7k7e1m53GOgFjKlo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468605391404-eigigeak6pf88kkg73s2n6894thebaia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
